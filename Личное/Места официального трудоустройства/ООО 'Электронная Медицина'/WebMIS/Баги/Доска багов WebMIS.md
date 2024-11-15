@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## vlasov
 
-- [ ] [[48374]] #slotdpro_group2
+- [ ] [[48374]] #slotdpro_group_rep
 
 
 ## test2096
